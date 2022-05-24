@@ -1,0 +1,33 @@
+DATABASE_CONFIG:
+  ATLAS_CLUSTER_PASSWORD: !!binary |
+    Z0FBQUFBQmlWRk4tdkpNaEtYTml5ak5waHlyWmVXRzhJM0dNVTBCWFpZSTcxYXZQei1hNGxVcWUy
+    d0pFV1JUWWRFTjlNVmF3TFQ3WDhLY25jQXhqZ3dVdF9QbVdTTm9SbXc9PQ==
+  ATLAS_CLUSTER_USERNAME: !!binary |
+    Z0FBQUFBQmlWRk4tZjd2OWZObzRmLWloRWJJbnR2SW5ZekVtcFhWZGZyTk9aWVl4UENJYXpSYTZ3
+    X2M3T3dMTlFtRzFNRnk2ZEtJb3FiQ1FmVE51V0JJa0JFUDNqMmpVLVE9PQ==
+  DB_NAME: LogTable
+  IS_ATLAS: 1
+EMAIL_CONFIG:
+  RECIEVER_EMAIL_ID: bappymalik4161@gmail.com
+  YOUR_EMAIL_ID: dinakhatunhj67@gmail.com
+  YOUR_EMAIL_PASS: !!binary |
+    Z0FBQUFBQmlWRk5yMUc1aFRJcnUyVTRiSjRQemctWFZ0S1pSTmNUdWxucERCbnpYRFVMTzJmQmI5
+    S1I4YVRCbTgtNXlwcWtQWVZlcWJXVlp0UUNIZUtXLWJ6ekxWa0piU2c9PQ==
+FILE_PATHS:
+  YOUR_MUSIC_DIR: H:\\Music\\Audio
+  YOUR_NOTEPAD_DIR: C:\\WINDOWS\\system32\\notepad.exe
+  YOUR_PYCHARM_DIR: C:\\Users\\HP\\AppData\\Local\\Programs\\JetBrains\\PyCharm Community
+    Edition 2019.2.3\\bin\\pycharm64.exe
+  YOUR_SUBLIME_DIR: C:\\Program Files\\Sublime Text 3\\sublime_text.exe
+  YOUR_VS_CODE_PATH: C:\\Users\\ACT\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe
+GUI_MATERIALS_DIR:
+  BACKGROUND_IMAGE_DIR: H:\Programming\Office\Desktop-Assistant\desktop_presentation_layer\GUI_Materials\Background\Black_Template.jpg
+  CODE_LEFT_GIF_DIR: H:\Programming\Office\Desktop-Assistant\desktop_presentation_layer\GUI_Materials\ExtraGui\Code_left.gif
+  CODE_MIDDLE_GIF_DIR: H:\Programming\Office\Desktop-Assistant\desktop_presentation_layer\GUI_Materials\ExtraGui\Code_middle.gif
+  EARTH_GIF_DIR: H:\Programming\Office\Desktop-Assistant\desktop_presentation_layer\GUI_Materials\ExtraGui\Earth.gif
+  FRAME_IMAGE_DIR: H:\Programming\Office\Desktop-Assistant\desktop_presentation_layer\GUI_Materials\ExtraGui\frame.jpg
+  HEALTH_GIF_DIR: H:\Programming\Office\Desktop-Assistant\desktop_presentation_layer\GUI_Materials\ExtraGui\Health_Template.gif
+  INITIALIZING_GIF_DIR: H:\Programming\Office\Desktop-Assistant\desktop_presentation_layer\GUI_Materials\ExtraGui\initial.gif
+  LOADING_GIF_DIR: H:\Programming\Office\Desktop-Assistant\desktop_presentation_layer\GUI_Materials\ExtraGui\loading_1.gif
+  LOGO_IMAGE_DIR: H:\Programming\Office\Desktop-Assistant\desktop_presentation_layer\GUI_Materials\Logo\neuron.png
+  VOICE_GIF_DIR: H:\Programming\Office\Desktop-Assistant\desktop_presentation_layer\GUI_Materials\VoiceReg\Aqua.gif

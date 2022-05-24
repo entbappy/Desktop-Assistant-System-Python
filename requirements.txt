@@ -1,0 +1,16 @@
+pyttsx3==2.90
+SpeechRecognition==3.8.1
+opencv-python==4.5.5.64
+wikipedia==1.4.0
+pywhatkit==5.3
+Flask==2.1.1
+secure-smtplib==0.1.1
+pyjokes==0.6.0
+PyAutoGUI==0.9.53
+PyQt5==5.15.4
+pyinstaller==4.10
+PyYAML
+# pyqt5-tools==5.15.4.3.2
+cryptography
+
+-e .
